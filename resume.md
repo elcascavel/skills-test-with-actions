@@ -19,7 +19,6 @@ Provide _world class support_ to customers on the GitHub platform
 
 ## Skills
 
-This course is super bugged.
 
 ### Education
 
@@ -28,3 +27,7 @@ Developed and maintained various conference talks, online training, and in-perso
 ### Leadership
 
 Managed multiple _asynchronous teams_ in the development, maintenance, and release of various web applications and websites.
+
+### Course Notes
+
+This course is super bugged. This last commit should get me to the last step!
